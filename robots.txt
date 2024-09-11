@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raversont.github.io/sitemap.html.gz
+Sitemap: https://raversont.github.io/app/sitemap.html.gz
+Sitemap: https://raversont.github.io/assets/sitemap.html.gz
+Sitemap: https://raversont.github.io/css/sitemap.html.gz
+Sitemap: https://raversont.github.io/includes/sitemap.html.gz
+Sitemap: https://raversont.github.io/item/sitemap.html.gz
+Sitemap: https://raversont.github.io/src/sitemap.html.gz
